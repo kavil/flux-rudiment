@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "flux-rudiment",
   "version": "0.1.0",
   "private": true,
   "main": "src/index.tsx",
@@ -20,5 +20,7 @@
     "@types/react": "16.0.38",
     "@types/react-dom": "16.0.4",
     "typescript": "^2.7.2"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
